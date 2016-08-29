@@ -1,2 +1,2 @@
 # crash-human-resources
-This is a simple human resources module
+This is a human resources module
